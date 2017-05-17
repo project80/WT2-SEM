@@ -1,22 +1,80 @@
 {
   "0": {
     "id": "MENU_ABOUT_US",
-    "qry": "about",
-    "sub": null
+    "qry": "",
+    "sub": {
+      "0": {
+        "id": "MENU_HISTORY",
+        "qry": "",
+        "sub": null
+      },
+      "1": {
+        "id": "MENU_LEADERSHIP",
+        "qry": "",
+        "sub": null
+      },
+      "2": {
+        "id": "MENU_DEPARTMENTS",
+        "qry": "",
+        "sub": {
+          "0": {
+            "id": "MENU_OAMM",
+            "qry": "",
+            "sub": null
+          },
+          "1": {
+            "id": "MENU_OIKR",
+            "qry": "",
+            "sub": null
+          },
+          "2": {
+            "id": "MENU_OEMP",
+            "qry": "",
+            "sub": null
+          }          ,
+          "3": {
+            "id": "MENU_OEAP",
+            "qry": "",
+            "sub": null
+          }
+        }
+      }
+    }
   },
   "1": {
     "id": "MENU_STAFF",
-    "qry": "staff",
+    "qry": "",
     "sub": null
   },
   "2": {
     "id": "MENU_STUDY",
-    "qry": "study",
-    "sub": null
+    "qry": ""    ,
+    "sub": {
+      "0": {
+        "id": "MENU_APPLICANT",
+        "qry": "",
+        "sub": null
+      },
+      "1": {
+        "id": "MENU_BACHELOR",
+        "qry": "",
+        "sub": null
+      },
+      "2": {
+        "id": "MENU_ENGINEER",
+        "qry": "",
+        "sub": null
+      },
+      "3": {
+        "id": "MENU_INCEPTOR",
+        "qry": "",
+        "sub": null
+      }      
+    }
   },
   "3": {
     "id": "MENU_RESEARCH",
-    "qry": "research",
+    "qry": "",
     "sub": {
       "0": {
         "id": "MENU_PROJECTS",
@@ -32,7 +90,7 @@
   },
   "4": {
     "id": "MENU_NEWS",
-    "qry": "",
+    "qry": " ",
     "sub": null
   },
   "5": {
@@ -63,7 +121,7 @@
   },
   "6": {
     "id": "MENU_CONTACT",
-    "qry": "contact",
+    "qry": "",
     "sub": null
   }
 }
