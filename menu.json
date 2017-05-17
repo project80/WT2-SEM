@@ -1,0 +1,69 @@
+{
+  "0": {
+    "id": "MENU_ABOUT_US",
+    "qry": "about",
+    "sub": null
+  },
+  "1": {
+    "id": "MENU_STAFF",
+    "qry": "staff",
+    "sub": null
+  },
+  "2": {
+    "id": "MENU_STUDY",
+    "qry": "study",
+    "sub": null
+  },
+  "3": {
+    "id": "MENU_RESEARCH",
+    "qry": "research",
+    "sub": {
+      "0": {
+        "id": "MENU_PROJECTS",
+        "qry": "",
+        "sub": null
+      },
+      "1": {
+        "id": "MENU_RESEARCH_TOPICS",
+        "qry": "",
+        "sub": null
+      }
+    }
+  },
+  "4": {
+    "id": "MENU_NEWS",
+    "qry": "",
+    "sub": null
+  },
+  "5": {
+    "id": "MENU_ACTIVITIES",
+    "qry": "",
+    "sub": {
+      "0": {
+        "id": "MENU_PHOTOS",
+        "qry": "",
+        "sub": null
+      },
+      "1": {
+        "id": "MENU_VIDEOS",
+        "qry": "",
+        "sub": null
+      },
+      "2": {
+        "id": "MENU_MEDIA",
+        "qry": "",
+        "sub": null
+      },
+      "3": {
+        "id": "MENU_TOPICAL_SITES",
+        "qry": "",
+        "sub": null
+      }
+    }
+  },
+  "6": {
+    "id": "MENU_CONTACT",
+    "qry": "contact",
+    "sub": null
+  }
+}
